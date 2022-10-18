@@ -1,6 +1,15 @@
 label{
+
     color: rgb(15, 15, 15);
     font-weight:  bold;
+
+
+    color: rgb(15, 15, 15);
+    font-weight:  italic;
+
+    color: rgb(13, 13, 15);
+    font-weight:  italicbold;
+
     padding-bottom: 10px;
     font-size: 25px;
     padding-top: 12px;
@@ -8,7 +17,10 @@ label{
 }
 
 form{
-    background-color: rgb(164, 159, 159);
+
+    background-color: rgb(165, 165, 165);
+
+
     width: 450px;
     border-radius: 35px;
     height: 450px;
@@ -34,7 +46,7 @@ textarea{
 button{
     flex-grow: 1;
     font-weight:  bold;
-    width: 125px;
+    width: 135px;
     margin: 35px; 
     border:1px solid black;
     border-radius: 30px;
@@ -45,7 +57,7 @@ button{
 }
 
 button#send{
-    background-color: red;
+    background-color: gray;
     color: rgb(249, 249, 249);
     
 }
