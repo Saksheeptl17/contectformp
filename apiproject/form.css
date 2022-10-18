@@ -45,7 +45,7 @@ button{
 }
 
 button#send{
-    background-color: red;
+    background-color: gray;
     color: rgb(249, 249, 249);
     
 }
